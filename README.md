@@ -4,28 +4,27 @@ You can use the [editor on GitHub](https://github.com/srikanth78/srikanth78.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Our Mission
 	
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To ensure the devops culture is inculcated across the industry and each of our team members take the responsibility to advocate the culture is being followed
 
 ```markdown
-Syntax highlighted code block
+Glimpse of our skill set - A few of the stack are listed below
 
-# Header 1
-## Header 2
-### Header 3
+Jenkins
+Azure Devops
+Travis CI
+Git
+Bitbucket
+Nexus
+Artifactory
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-[Link](https://www.youtube.com/watch?v=SOtC1VLZKm4&t=107s)
+[Wipro's welcome kit](https://www.youtube.com/watch?v=SXTLrjgXRzw)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SXTLrjgXRzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Sample video on Devops](https://www.youtube.com/watch?v=SOtC1VLZKm4&t=107s)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SOtC1VLZKm4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
